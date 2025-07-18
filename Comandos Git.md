@@ -20,6 +20,7 @@
 <br>
 
 ##### **`• git commit -a -m "Descrição do Commit"`**
+    O comando "git commit" possibilita com que o usuário adicione uma descrição as alterações feitas no(s) arquivo(s).
 
 <br>
 
