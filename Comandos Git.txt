@@ -1,8 +1,0 @@
-git init
-git status
-git add .
-git commit -a -m "(Descrição do Commit)"
-git config --global user.name "Nome"
-git config --global user.email "Email"
-git remote add origin "https://github.com/LuuGab/(Repositório).git"
-git clone "https://github.com/LuuGab/(Repositório).git"
