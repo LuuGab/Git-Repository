@@ -1,16 +1,13 @@
 # Comandos Git
 
-**`• git init`**
+**• git init**
 
-> O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório git.
-Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados
-necessários para o rastreamento de versões.
+>`O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório git. Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.`
 
 
 
-**`• git status`**
-> O comando "git-status" possibilita com que o usuário acompanhe, verifique, e analise, a situação atual dos arquivos
-dentro do repositório.
+**• git status**
+> `O comando "git-status" possibilita com que o usuário acompanhe, verifique, e analise, a situação atual dos arquivos dentro do repositório.`
 
 
 
