@@ -24,7 +24,6 @@
 > **Branch**
 
 <p align="justify">
-    "O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, usado para gerenciar e rastrear alterações em arquivos, especialmente em projetos de desenvolvimento de software. <b>Ele permite que equipes colaborem em projetos, rastreiem o histórico de alterações feitas e revertam para versão anteriores</b>, tudo de maneira eficiente e organizada."
 </p>
 
 <br>
