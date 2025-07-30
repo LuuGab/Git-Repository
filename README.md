@@ -4,7 +4,7 @@
     "O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, usado para gerenciar e rastrear alterações em arquivos, especialmente em projetos de desenvolvimento de software. <b>Ele permite que equipes colaborem em projetos, rastreiem o histórico de alterações e revertam para versão anteriores</b>, tudo de forma eficiente e organizada."
 </p>
 
-> **Comandos GIT**
+## Comandos GIT
 
 ##### **`• git init`**
 	O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório local.
