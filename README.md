@@ -13,7 +13,7 @@
 </p>
 
 <p align="justify">
-    <b>Observação(es):</b> Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.
+    <small><b>Observação(es):</b> Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.</small>
 </p>
 
 <br>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="justify">
-    <b>Observação(es):</b> Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.
+    <small><b>Observação(es):</b> Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.</small>
 </p>
 
 <br>
