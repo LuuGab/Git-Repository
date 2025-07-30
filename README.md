@@ -26,7 +26,7 @@
 
 <br>
 
-> **git add (arquivo) | git add *.(tipo do arquivo) | git add .**
+> <b>git add (arquivo) | git add *.(tipo do arquivo) | git add .</b>
 
 <p align="justify">
     O comando "git add" possibilita com que o usuário informe quais arquivos serão modificados a partir do próximo commit.
