@@ -6,19 +6,19 @@
 
 ## Comandos GIT
 
-> **git init**
+> **GIT INIT**
 
 <p align="justify">
     O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório local.
 </p>
 
 <p align="justify">
-    <small><b>Observação(es):</b> Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.</small>
+    <b>Observação(es):</b> Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.
 </p>
 
 <br>
 
-> **git status**
+> **GIT STATUS**
 
 <p align="justify">
     O comando "git-status" possibilita com que o usuário verifique a situação atual dos arquivos dentro do repositório local.
@@ -26,19 +26,19 @@
 
 <br>
 
-> <b>git add (arquivo) | git add *.(tipo do arquivo) | git add .</b>
+> <b>GIT ADD (arquivo) | GIT ADD *.(tipo do arquivo) | GIT ADD .</b>
 
 <p align="justify">
     O comando "git add" possibilita com que o usuário informe quais arquivos serão modificados a partir do próximo commit.
 </p>
 
 <p align="justify">
-    <small><b>Observação(es):</b> Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.</small>
+    <b>Observação(es):</b> Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.
 </p>
 
 <br>
 
-> **git commit -a -m "Descrição do Commit"**
+> **GIT COMMIT -a -m "Descrição do Commit"**
 
 <p align="justify">
     O comando "git commit" possibilita com que o usuário adicione uma descrição as alterações feitas no(s) arquivo(s).
@@ -46,20 +46,20 @@
 
 <br>
 
-> **git config --global user.name "Nome"**
+> **GIT CONFIG --global user.name "Nome"**
 
 <br>
 
-> **git config --global user.email "Email"**
+> **GIT CONFIG --global user.email "Email"**
 
 <br>
 
-> **git remote add origin <Link do Repositório>**
+> **GIT REMOTE ADD ORIGIN <Link do Repositório>**
 
 <br>
 
-> **git clone <Link do Repositório>**
+> **GIT CLONE <Link do Repositório>**
 
 <br>
 
-> **git push origin master**
+> **GIT PUSH ORIGIN (Nome da Branch)**
