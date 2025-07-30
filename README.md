@@ -6,44 +6,60 @@
 
 ## Comandos GIT
 
-##### **`• git init`**
-	O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório local.
+> **git init**
 
-> **Observação(es):** Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.
+<p align="justify">
+    O comando "git-init" possibilita com que uma respectiva pasta seja inicializada, ou torne-se um repositório local.
+</p>
+
+<p align="justify">
+    <b>Observação(es):</b> Através da utilização do comando é criado uma pasta oculta ".git", nela reside todas as configurações e metadados necessários para o rastreamento de versões.
+</p>
 
 <br>
 
-##### **`• git status`**
+> **git status**
+
+<p align="justify">
     O comando "git-status" possibilita com que o usuário verifique a situação atual dos arquivos dentro do repositório local.
+</p>
 
 <br>
 
-##### **`• git add (arquivo) || git add . || git add *.(tipo do arquivo)`**
+> **git add (arquivo) | git add *.(tipo do arquivo) | git add .**
+
+<p align="justify">
     O comando "git add" possibilita com que o usuário informe quais arquivos serão modificados a partir do próximo commit.
+</p>
 
-> **Observação(es):** Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.
+<p align="justify">
+    <b>Observação(es):</b> Através da utilização do comando os arquivos são enviados ao que se denomina de "Staging Area", ou "Index", cujo se refere a um espaço temporário onde as alterações dos arquivos são feitas antes de serem confirmardas e efetivamente encaminhadas ao respositório remoto, no caso o próprio GitHub.
+</p>
 
 <br>
 
-##### **`• git commit -a -m "Descrição do Commit"`**
+> **git commit -a -m "Descrição do Commit"**
+
+<p align="justify">
     O comando "git commit" possibilita com que o usuário adicione uma descrição as alterações feitas no(s) arquivo(s).
+</p>
 
 <br>
 
-##### **`• git config --global user.name "Nome"`**
+> **git config --global user.name "Nome"**
 
 <br>
 
-##### **`• git config --global user.email "Email"`**
+> **git config --global user.email "Email"**
 
 <br>
 
-##### **`• git remote add origin <Link do Repositório>`**
+> **git remote add origin <Link do Repositório>**
 
 <br>
 
-##### **`• git clone <Link do Repositório>`**
+> **git clone <Link do Repositório>**
 
 <br>
 
-##### **`• git push origin master`**
+> **git push origin master**
