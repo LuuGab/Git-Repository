@@ -87,7 +87,7 @@
 
 <br>
 
-> **GIT log**
+> **GIT LOG**
 
 <p align="justify">
     O comando "git log" possibilita com que o usuário visualize o histórico de alterações realizadas, incluindo o autor e o nome do commit, a data em que foi feito, e o "Hash" daquele respectivo commit.
@@ -99,7 +99,7 @@
 
 <br>
 
-> **GIT restore (nome do arquivo)**
+> **GIT RESTORE (nome do arquivo)**
 
 <p align="justify">
     O comando "git restore" permite ao usuário retomar o arquivo ao estado anterior previamente as mudanças realizadas. Ou seja, caso uma determinada modificação tenha sido feita de maneira indevida, através do comando torna-se possível de reverter aquelas respectivas alterações. 
@@ -111,7 +111,7 @@
 
 <br>
 
-> **GIT checkout -b (nome da nova branch)**
+> **GIT CHECKOUT -B (nome da nova branch)**
 
 <p align="justify">
     O comando "git checkout -b" permite ao usuário criar uma nova branch a partir da que está no momento.
@@ -119,7 +119,7 @@
 
 <br>
 
-> **GIT checkout (nome da branch)**
+> **GIT CHECKOUT (nome da branch)**
 
 <p align="justify">
     O comando "git checkout" permite ao usuário alterar para uma branch específica preexistente.
@@ -129,7 +129,7 @@
 
 <br>
 
-> **GIT merge (nome da branch referência)**
+> **GIT MERGE (nome da branch referência)**
 
 <p align="justify">
     O comando "git merge" permite ao usuário copiar e mesclar as alterações feitas de uma branch referência na branch em que designa atualmente.
