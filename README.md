@@ -19,7 +19,7 @@
 **• Repositório Local**
 
 <p align=justify>
-    O "Repositório Local" trata-se de espaço dedicado ao gerenciamento de dados que se localiza no seu computador. Nele contém a pasta oculta ".git", em que localiza todos os metadados necessários para o funcionamento adequado do git e o versionamento de arquivos.
+    O "Repositório Local" trata-se de um espaço dedicado ao gerenciamento de dados que se localiza no seu computador. Nele contém a pasta oculta ".git", em que localiza todos os metadados necessários para o funcionamento adequado do git e o versionamento de arquivos.
 </p>
 
 **• Repositório Remoto**
