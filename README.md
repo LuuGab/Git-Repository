@@ -8,34 +8,45 @@
 
 ## Conceitos Básicos
 
-> **Repositório**
+> **REPOSITÓRIO**
 
 <p align="justify">
+    Em termos gerais, o "Repositório" refere-se a um espaço, seja ele local ou remoto, em que se torna possível armazenar, modificar e gerenciar dados e/ou informações sobre projetos, sistemas e códigos.
 </p>
 
 <br>
 
 **• Repositório Local**
 
+<p align=justify>
+    O "Repositório Local" trata-se de espaço dedicado ao gerenciamento de dados que se localiza no seu computador. Nele contém a pasta oculta ".git", em que localiza todos os metadados necessários para o funcionamento adequado do git e o versionamento de arquivos.
+</p>
+
 **• Repositório Remoto**
 
-<br>
-
-> **Branch**
-
-<p align="justify">
+<p align=justify>
+    Já o "Repositório Remoto" baseia-se em uma versão do repositório local que é mantido na nuvem através de serviços como o GitHub, GitLab, ou o Bitbucket. Dessa forma, torna-se possível de se fazer backups, compartilhar projetos, ou colaborar em desenvolvimentos em equipe com outras pessoas.
 </p>
 
 <br>
 
-> **Merge**
+> **BRANCH**
 
 <p align="justify">
+    As "Branch" referem-se a ramificações separadas de um espaço de desenvolvimento principal. Ou seja, trata-se de um espaço remoto que é criado com base em um referencial, espelhando todos os arquivos e/ou códigos nele contido, possibilitando com que seja possível de se efetuar diversas alterações e modificações sem que afete diretamente a linha principal, que é geralmente denominado de "<b>main</b>" ou "<b>master</b>".
 </p>
 
 <br>
 
-> **Commit**
+> **MERGE**
+
+<p align="justify">
+    A princípio o "Merge" refere-se a um trecho que pode ser utilizado com uso do Git para unificar diferentes versões de um respectivo projeto, geralmente sendo aplicado com o intuito de unir as modificações de uma determinada branch do repositório a outra.
+</p>
+
+<br>
+
+> **COMMIT**
 
 <p align="justify">
     De maneira simples e direta, o "Commit" se trata do processo de nomear o grupo das alterações que foram realizadas sob um arquivo, e assim salvá-las no histórico de versionamento.
@@ -127,8 +138,6 @@
 
 <br>
 
-<br>
-
 > **GIT MERGE (nome da branch referência)**
 
 <p align="justify">
@@ -140,6 +149,7 @@
 > **GIT CONFIG --global user.name "Nome"**
 
 <p align="justify">
+
 </p>
 
 <br>
@@ -147,6 +157,7 @@
 > **GIT CONFIG --global user.email "Email"**
 
 <p align="justify">
+
 </p>
 
 <br>
@@ -154,6 +165,7 @@
 > **GIT REMOTE ADD ORIGIN <Link do Repositório>**
 
 <p align="justify">
+
 </p>
 
 <br>
@@ -161,6 +173,7 @@
 > **GIT CLONE <Link do Repositório>**
 
 <p align="justify">
+
 </p>
 
 <br>
@@ -168,6 +181,7 @@
 > **GIT PUSH ORIGIN (Nome da Branch)**
 
 <p align="justify">
+
 </p>
 
 <br>
