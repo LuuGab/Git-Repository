@@ -90,6 +90,49 @@
 > **GIT log**
 
 <p align="justify">
+    O comando "git log" possibilita com que o usuário visualize o histórico de alterações realizadas, incluindo o autor e o nome do commit, a data em que foi feito, e o "Hash" daquele respectivo commit.
+</p>
+
+<p align="justify">
+    <b>Observações:</b> "Hash" refere-se a um identificador único do commit, podendo também ser chamado de "ID". Tal identificador é de suma importância, principalmente para desfazer modificações específicas ou retornar o estado de um arquivo ou código para um ponto especificado.
+</p>
+
+<br>
+
+> **GIT restore (nome do arquivo)**
+
+<p align="justify">
+    O comando "git restore" permite ao usuário retomar o arquivo ao estado anterior previamente as mudanças realizadas. Ou seja, caso uma determinada modificação tenha sido feita de maneira indevida, através do comando torna-se possível de reverter aquelas respectivas alterações. 
+</p>
+
+<p align="justify">
+    <b>Observações:</b> Através da inserção do trecho "--source=&gt;commit&lt;" antes do nome do arquivo torna-se possível restaurar o arquivo para o estado em que estava em um commit específico. Nesse caso, troca-se o "commit" pelo identificador Hash do commit desejado.
+</p>
+
+<br>
+
+> **GIT checkout -b (nome da nova branch)**
+
+<p align="justify">
+    O comando "git checkout -b" permite ao usuário criar uma nova branch a partir da que está no momento.
+</p>
+
+<br>
+
+> **GIT checkout (nome da branch)**
+
+<p align="justify">
+    O comando "git checkout" permite ao usuário alterar para uma branch específica preexistente.
+</p>
+
+<br>
+
+<br>
+
+> **GIT merge (nome da branch referência)**
+
+<p align="justify">
+    O comando "git merge" permite ao usuário copiar e mesclar as alterações feitas de uma branch referência na branch em que designa atualmente.
 </p>
 
 <br>
